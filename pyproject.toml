@@ -2,7 +2,7 @@
 requires = [
     "setuptools",
     "setuptools-scm",
-    "setuptools-git-ver"
+    "setuptools-git"
 ]
 build-backend = "setuptools.build_meta"
 
